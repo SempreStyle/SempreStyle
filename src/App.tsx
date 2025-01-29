@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Calendar, Clock, Home, User, Check, X, Edit2, Save } from 'lucide-react';
+import { Calendar, Clock, User, Check, X, Edit2, Save } from 'lucide-react';
 
 interface Rental {
   id: string;
